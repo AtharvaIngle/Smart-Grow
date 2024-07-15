@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1897949793",
+    "firebase_url": "https://farmassist-11222-default-rtdb.firebaseio.com",
+    "project_id": "farmassist-11222",
+    "storage_bucket": "farmassist-11222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1897949793:android:de43f96657f62d594fd820",
+        "android_client_info": {
+          "package_name": "com.example.farmassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1897949793-a0q2c4cd8mamii83osep0367lhnb4lf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2SMTR4ltnUDZFBT9C8ieBshHlUJsX0G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1897949793-a0q2c4cd8mamii83osep0367lhnb4lf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
