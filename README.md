@@ -1,8 +1,12 @@
 🌱 Smart Grow
 <p align=center><img src="images/app_icon.png" width=20% height=20%></p>
 Smart Grow is an innovative project that combines Machine Learning (ML), Artificial Intelligence (AI), and Internet of Things (IoT) technologies to create a smart gardening system. Developed using Flutter, this project aims to revolutionize the way we grow plants, making it easier and more efficient! 🌿✨
-### App Working
-https://github.com/user-attachments/assets/3c966d37-0d95-43f1-b7fc-4545f60a207e
+### App Screenshots
+
+| <img src="./docs/img/view_news.gif"> | <img src="./docs/img/monitor_iot.gif"> | <img src="./docs/img/detect_disease.gif"> |
+| :----------------------------------: | :------------------------------------: | :---------------------------------------: |
+|       _View Agricultural News_       |      _Receive IoT Telemetry Data_      |          _Detect Plant Disease_           |
+
 
 🚀 Features
 ML-Powered Plant Health Monitoring: Leverages machine learning algorithms to monitor and diagnose plant health. 📊
