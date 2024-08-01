@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "1897949793",
-    #"firebase_url": "https://farmassist-11222-default-rtdb.firebaseio.com",
-    #"project_id": "farmassist-11222",
-    #"storage_bucket": "farmassist-11222.appspot.com"
+    "firebase_url": "put your firebase project id here",
+    "project_id": "farmassist-11222",
+    "storage_bucket": "farmassist-11222.appspot.com"
   },
   "client": [
     {
