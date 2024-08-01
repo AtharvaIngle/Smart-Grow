@@ -1,8 +1,8 @@
 {
   "project_info": {
     "project_number": "1897949793",
-    "firebase_url": "put your firebase project id here",
-    "project_id": "farmassist-11222",
+    "firebase_url": "put your firebase project url here",
+    "project_id": "project id of firebase here",
     "storage_bucket": "farmassist-11222.appspot.com"
   },
   "client": [
