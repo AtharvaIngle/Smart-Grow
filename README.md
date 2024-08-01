@@ -6,10 +6,6 @@ Smart Grow is an innovative project that combines Machine Learning (ML), Artific
 
 ## App Working
 https://github.com/user-attachments/assets/6256158b-e2f0-4d48-88e8-f60311c22e87
-## Architecture
-
-<p align=center><img src="./docs/img/architecture.png" width=75% height=75%></p>
-<p align="center"><i>Architecture Diagram of Farmassist</i></p>
 
 
 
@@ -165,7 +161,7 @@ Things to do if you want to fork or contribute to the project.
 5. Refer to [CI/CD for Flutter Apps Using GitHub Actions](https://betterprogramming.pub/ci-cd-for-flutter-apps-using-github-actions-b833f8f7aac) to set up a workflow that can release an APK for your Flutter app whenever someone pushes the code to GitHub. Instead of using `push` event, I set up a manual trigger with `workflow_dispatch` event.
 
 ## References
-
+This App Is Done With The Collabration of Farmassist App As A Upgraded Version Of It.....
 - [GitHub: Farmassist IoT Device Simulator](https://github.com/farmassistX/farmassist-iot-device-simulator)
 - [GitHub: Farmassist Firebase](https://github.com/farmassistX/farmassist-firebase)
 - [Bloc: Flutter Firebase Login Tutorial](https://bloclibrary.dev/#/flutterfirebaselogintutorial)
